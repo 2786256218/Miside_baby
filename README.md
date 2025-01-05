@@ -9,7 +9,7 @@
 <img width="1275" alt="2" src="https://github.com/user-attachments/assets/514f025e-7052-489b-8d1b-d0e658acd81c" />
 
 
-**Miside_Baby** is an open-source project built on the **Miside model**, aiming to create a friendly AI chat companion. Currently in the testing phase, we welcome you to experience it and provide feedback!
+**Miside_Baby** is an open-source project built on the **Models in ollama**, aiming to create a friendly AI chat companion. Currently in the testing phase, we welcome you to experience it and provide feedback!
 
 **Features:**
 
