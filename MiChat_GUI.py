@@ -1,15 +1,4 @@
 #coding=utf-8
-'''
-requires Python 3.6 or later
-pip install requests
-pip install pydub
-pip install pyaudio
-pip install tempfile
-pip install whisper
-pip install tkinter
-pip install opencv-python
-pip install pillow
-'''
 import base64
 import json
 import uuid

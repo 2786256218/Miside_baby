@@ -1,0 +1,16 @@
+requests
+pydub
+pyaudio
+tempfile
+whisper
+tkinter
+opencv-python
+pillow
+base64
+json
+uuid
+wave
+keyboard
+time
+PIL
+opencv-python

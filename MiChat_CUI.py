@@ -1,11 +1,5 @@
 #coding=utf-8
-'''
-requires Python 3.6 or later
-pip install requests
-pip install pydub
-pip install pyaudio
-pip install tempfile
-'''
+
 import base64
 import json
 import uuid
