@@ -8,6 +8,9 @@
 * After completion, enter the console  https://console.volcengine.com/speech/app
 <img width="1275" alt="2" src="https://github.com/user-attachments/assets/514f025e-7052-489b-8d1b-d0e658acd81c" />
 
+* Activate the service and copy your key and token to the source code. Initially, only two tones are given. Other free tones can be purchased on the purchase page.
+![3](https://github.com/user-attachments/assets/f3973446-2f07-4680-a294-2909d021d984)
+
 
 **Miside_Baby** is an open-source project built on the **Models in ollama**, aiming to create a friendly AI chat companion. Currently in the testing phase, we welcome you to experience it and provide feedback!
 
