@@ -58,5 +58,8 @@
 <pre><code>iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))</code></pre>
 * Install ffmpeg using choco.
 <pre><code>choco install ffmpeg</code></pre>
+* Convert Simplified Chinese
+<pre><code>pip install opencc</code></pre>
+* For other dependent environments, execute the following commands.
 <pre><code>pip install -r requirements.txt</code></pre>
 
