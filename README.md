@@ -51,7 +51,7 @@
 **Setup:**
 * Python 3.6 or later.
   
-* Since the open source project whisper is used, you can refer to the whisper repository to install it   https://github.com/openai/whisper.
+* Since whisper is used as the ASR for this project, you can go to the whisper repository to view detailed information https://github.com/openai/whisper. If you think whisper is too slow, you can replace it with other online ASRs such as Seed-ASR or Baidu ASR  .
   
 <pre><code>pip install openai-whisper</code></pre>
 
