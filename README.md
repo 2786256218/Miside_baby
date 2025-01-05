@@ -1,3 +1,4 @@
+[中文](https://github.com/2786256218/Miside_baby/blob/main/README_ZH.md)
 ## Miside_Baby - Your AI Chat Companion
 
 **Miside_Baby** is an open-source project built on the **Miside model**, aiming to create a friendly AI chat companion. Currently in the testing phase, we welcome you to experience it and provide feedback!
