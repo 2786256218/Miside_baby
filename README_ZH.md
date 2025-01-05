@@ -1,18 +1,17 @@
 ## Miside_Baby - 你的 AI 聊天伙伴
 
-**Miside_Baby** 是一款基于 **Miside 模型** 的开源项目，旨在创建一位友好的 AI 聊天伙伴。目前处于测试阶段，欢迎您体验并提供反馈！
+**Miside_Baby** 是一款基于 **ollama中的开源模型** 的开源项目，旨在创建一位友好的 AI 聊天伙伴。目前处于测试阶段，欢迎您体验并提供反馈！
 
 
 **特性:**
 
-* 基于 Miside 模型，能够进行自然流畅的对话。
+* 基于ollama中的开源模型开发，能够免费的进行自然流畅的对话。
 * 提供多种交互模式，例如文本输入和输出。
 * 支持简单的问答、故事创作等基本功能。
 
 **目标:**
 
 *  构建一个简单、易用且令人愉快的 AI 聊天伙伴。
-* 通过开源促进 AI 技术的普及和发展。
 
 
 **使用说明:**
@@ -39,7 +38,7 @@
 
 **安装:**
 * Python 3.6 or later.
-  
+* ollama安装:https://ollama.com/
 * 由于使用了开源项目 whisper，因此可以参考 whisper 仓库进行安装   https://github.com/openai/whisper.
   
 <pre><code>pip install openai-whisper</code></pre>
