@@ -39,6 +39,7 @@
 **安装:**
 * Python 3.6 or later.
 * ollama安装:https://ollama.com/
+* 默认使用gemma2模型
 * 由于使用了开源项目 whisper，因此可以参考 whisper 仓库进行安装   https://github.com/openai/whisper.
   
 <pre><code>pip install openai-whisper</code></pre>
