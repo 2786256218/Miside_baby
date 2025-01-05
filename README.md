@@ -51,6 +51,7 @@
 **Setup:**
 * Python 3.6 or later.
 * Install ollama:https://ollama.com/
+* The gemma2 model is used by default
 * Since whisper is used as the ASR for this project, you can go to the whisper repository to view detailed information https://github.com/openai/whisper. If you think whisper is too slow, you can replace it with other online ASRs such as Seed-ASR or Baidu ASR  .
   
 <pre><code>pip install openai-whisper</code></pre>
