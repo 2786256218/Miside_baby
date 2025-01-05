@@ -1,6 +1,14 @@
 [中文](https://github.com/2786256218/Miside_baby/blob/main/README_ZH.md)
 ## Miside_Baby - Your AI Chat Companion
 
+**Prepare:**
+* Go to Volcano Cloud platform to register an account  https://console.volcengine.com/auth/login?redirectURI=%2Fhome
+<img width="1269" alt="1" src="https://github.com/user-attachments/assets/602da30e-8d48-4b22-a11b-63c486a4f1eb" />
+
+* After completion, enter the console  https://console.volcengine.com/speech/app
+<img width="1275" alt="2" src="https://github.com/user-attachments/assets/514f025e-7052-489b-8d1b-d0e658acd81c" />
+
+
 **Miside_Baby** is an open-source project built on the **Miside model**, aiming to create a friendly AI chat companion. Currently in the testing phase, we welcome you to experience it and provide feedback!
 
 **Features:**
