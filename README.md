@@ -13,14 +13,13 @@
 
 **Features:**
 
-* Based on the Miside model, capable of engaging in natural and fluent conversations.
+* Based on the Models in ollama, capable of engaging in natural and fluent conversations.
 * Offers multiple interaction modes, such as text input and output.
 * Supports simple question answering, story creation, and other basic functionalities.
 
 **Goals:**
 
 * To build a simple, user-friendly, and enjoyable AI chat companion.
-* To promote the popularization and development of AI technology through open-source.
 
 **Usage Instructions:**
 
