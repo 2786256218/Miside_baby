@@ -80,3 +80,4 @@
 * First of all, thanks to Xlmy, the provider of misside 3D animation.
 * Currently, the models and animations of Miside are quite scarce. Since I have not learned 3D animation production, I cannot make other animations. If any friends are willing to provide materials, please send them to my email lhl2786256218@gmail.com. I will add new animations and functions in the next version update.
 * Thanks to everyone who helped with this project
+* The voice function is used in the command line, s to record, q to pause
